@@ -44,7 +44,6 @@ Option A: Windows (Executable .exe)
    If a blue window appears saying "Windows protected your PC":
    1. Click on "More info".
    2. Click the "Run anyway" button.
-   3. 
 
 Option B: Linux / macOS / Source Code
 If you want to run the game from the source code:
