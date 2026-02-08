@@ -1,0 +1,21 @@
+# --- Python Internals ---
+__pycache__/
+*.pyc
+
+# --- Virtual Environments (Crucial!) ---
+.venv/
+venv/
+env/
+
+# --- PyInstaller Build Artifacts ---
+build/
+dist/
+*.spec
+
+# --- OS Metadata (Junk) ---
+.DS_Store
+Thumbs.dbg
+
+# --- IDE Settings (Optional) ---
+.vscode/
+.idea/
