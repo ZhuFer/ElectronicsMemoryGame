@@ -10,7 +10,7 @@ INSTRUCCIONES DE INSTALACIÓN
 Opción A: Windows (Ejecutable .exe)
 1. Descomprime el archivo ZIP completamente (Clic derecho -> Extraer todo).
 2. Abre la carpeta extraída.
-3. Haz doble clic en "MemoryGame.exe" para jugar.
+3. Haz doble clic en "Memorama_Electronico.exe" para jugar.
 
    NOTA: 
    Si aparece una ventana azul diciendo "Windows protegió su PC":
@@ -38,7 +38,7 @@ INSTALLATION INSTRUCTIONS
 Option A: Windows (Executable .exe)
 1. Unzip the file completely (Right-click -> Extract All).
 2. Open the extracted folder.
-3. Double-click "MemoryGame.exe" to play.
+3. Double-click "Memorama_Electronico.exe" to play.
 
    NOTE:
    If a blue window appears saying "Windows protected your PC":
