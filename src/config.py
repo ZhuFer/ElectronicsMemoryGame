@@ -30,6 +30,8 @@ GRAY = (200, 200, 200)
 RED = (255, 0, 0)
 GREEN = (0, 255, 0)
 BLUE = (0, 0, 255)
+INDIGO = (75, 0, 130)
+VIOLET = (148, 0, 211)
 
 # --- 4. ASSETS PATHS/RUTAS DE LOS RECURSOS ---
 # Get the parent directory of the current file/ Obtener el directorio padre del archivo actual
